@@ -1,0 +1,1 @@
+# wp-resource-permission-config
